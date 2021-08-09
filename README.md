@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @I23BU5
-- ❤️ I’m interested in Cyber Security, Pentesting, Python, Ethical Hacking
-- 📚 I’m currently learning Python, Linux, Pentesting
+- ❤️ I’m interested in Pentesting, Python, Ethical Hacking
+- 📚 I’m currently a Student in Cyber Security
 - 📫 How to reach me: Instagram @arded_ah99
 
 <!---
